@@ -30,9 +30,14 @@ Here are some ideas to get you started:
 
 
 
-### Websites
-[Medium]: https://saumyagoyal.medium.com/
-[Instagram]: https://www.instagram.com/_saumya_g/?hl=en
+### External Links to find me
 
+📰 [medium][medium] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+[medium]: https://saumyagoyal.medium.com
+[instagram]:  https://www.instagram.com/_saumya_g
+[linkedin]: https://www.linkedin.com/in/saumyaagoyal
 
 
