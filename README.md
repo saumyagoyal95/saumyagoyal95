@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with <b>"More discipline in my life :P"</b>
 - 💬 Ask me about <b>"Data Analysis using Python, Machine Learning and Deep learning models"</b> 
 - 📫 How to reach me: <b>saumya.goyal@tum.de</b>
-- 😄 Pronouns: <b>"Sam"(UK), "Samy"(US), "Soniya"(DE), "Swomiya"(South India), "Someeea" (people who want want to annoy me)</b>
+- 😄 Pronouns: She 
+- ⚡ More Names : <b>"Sam"(UK), "Samy"(US), "Soniya"(DE), "Swomiya"(South India), "Someeea" (people who want want to annoy me)</b>
 - ⚡ Fun fact: <b>"I love eating Pav Bhaji on Juhu Beach (Just mumbai things, #TooMuchIndian) over any type of food available under best settings"</b>
 
 ### What I know?
@@ -26,6 +27,12 @@ Here are some ideas to get you started:
 
 
 ### Stats
+
+
+
+### Websites
+[Medium]: https://saumyagoyal.medium.com/
+[Instagram]: https://www.instagram.com/_saumya_g/?hl=en
 
 
 
