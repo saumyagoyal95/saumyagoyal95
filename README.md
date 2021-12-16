@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 ### External Links to find me
 
 📰 [medium][medium] **|** 
-📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
+📷 [instagram][instagram] **|** 
 
 [medium]: https://saumyagoyal.medium.com
 [instagram]:  https://www.instagram.com/_saumya_g
