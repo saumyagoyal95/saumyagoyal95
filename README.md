@@ -1,3 +1,5 @@
+## Banner image comes here
+
 # Hello! I am Saumya <img src="https://github.com/saumyagoyal95/saumyagoyal95/blob/b818d448a477b2645f428ecd0a2045c2c8baec26/wave.gif" width="40px">
 
 <!--
@@ -28,6 +30,15 @@ Here are some ideas to get you started:
 
 ### Stats
 
+<a href="https://github.com/saumyagoyal95">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyagoyal95&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/saumyagoyal95">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saumyagoyal95&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+
+</a>    
 
 
 ### External Links to find me
