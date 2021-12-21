@@ -1,5 +1,5 @@
-[![Header](https://github.com/saumyagoyal95/saumyagoyal95/blob/799adf2f386a8d68fb42e6806c40895cdfffb009/women-in-data-science-and-stem.jpg "Header")](https://www.linkedin.com/in/saumyaagoyal/)
-
+<!--[![Header](https://github.com/saumyagoyal95/saumyagoyal95/blob/799adf2f386a8d68fb42e6806c40895cdfffb009/women-in-data-science-and-stem.jpg "Header")](https://www.linkedin.com/in/saumyaagoyal/)
+-->
 
 # Hello! I am Saumya <img src="https://github.com/saumyagoyal95/saumyagoyal95/blob/b818d448a477b2645f428ecd0a2045c2c8baec26/wave.gif" width="40px">
 
