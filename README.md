@@ -42,7 +42,7 @@
 ### External Links to find me
 
 📰 [medium][medium] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] **|**
 📷 [instagram][instagram] **|** 
 
 [medium]: https://saumyagoyal.medium.com
