@@ -1,11 +1,4 @@
-<!--[![Header](https://github.com/saumyagoyal95/saumyagoyal95/blob/799adf2f386a8d68fb42e6806c40895cdfffb009/women-in-data-science-and-stem.jpg "Header")](https://www.linkedin.com/in/saumyaagoyal/)
--->
-
 # Hello! I am Saumya <img src="https://github.com/saumyagoyal95/saumyagoyal95/blob/b818d448a477b2645f428ecd0a2045c2c8baec26/wave.gif" width="40px">
-
-<!--
-**saumyagoyal95/saumyagoyal95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 - 🔭 I’m currently working on <b>"NLP based customer service helper system in collaboration with IBM infrastructure"</b>
 - 🌱 I’m currently learning  <b>"NLP with hugging face libraries"</b>
@@ -36,11 +29,11 @@
 ### Stats
 
 <a href="https://github.com/saumyagoyal95">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saumyagoyal95&show_icons=true&theme=gruvbox"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saumyagoyal95&hide=contribs,prs&show_icons=true&theme=gruvbox"/> 
 </a>
 
 <a href="https://github.com/saumyagoyal95">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyagoyal95&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyagoyal95&hide=HTML,CSS&theme=gruvbox" />
 </a>
 
 
