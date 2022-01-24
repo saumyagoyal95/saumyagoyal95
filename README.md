@@ -17,26 +17,32 @@
 
 ### What I know?
 ![](https://img.shields.io/badge/Language-Python-informational??style=for-the-badge&color=red)
-![](https://img.shields.io/badge/Language-R-informational??style=for-the-badge&color=red)
+![](https://img.shields.io/badge/-R-informational??style=for-the-badge&color=red)
+![](https://img.shields.io/badge/-MySQL-informational??style=for-the-badge&color=red)
+![](https://img.shields.io/badge/-CPP-informational??style=for-the-badge&color=red)
 
-![](https://img.shields.io/badge/Editor-SublimeText-informational??style=for-the-badge&color=red)
-![](https://img.shields.io/badge/Environment-JupyterNotebooks-informational??style=for-the-badge&color=red)
+![](https://img.shields.io/badge/PythonLibraries-PyTorch-informational??style=for-the-badge&color=success)
+![](https://img.shields.io/badge/-NumPy-informational??style=for-the-badge&color=success)
+![](https://img.shields.io/badge/-Pandas-informational??style=for-the-badge&color=success)
+![](https://img.shields.io/badge/-Matplotlib-informational??style=for-the-badge&color=success)
+![](https://img.shields.io/badge/-SciKit-Learn-informational??style=for-the-badge&color=success)
 
-![](https://img.shields.io/badge/Tools-Docker-informational??style=for-the-badge&color=red)
-![](https://img.shields.io/badge/Cloud-AWS-informational??style=for-the-badge&color=red)
+![](https://img.shields.io/badge/DevOps-Docker-informational??style=for-the-badge&color=blue)
+![](https://img.shields.io/badge/-Kubernetes-informational??style=for-the-badge&color=blue)
+
+![](https://img.shields.io/badge/Cloud-AWS-informational??style=for-the-badge&color=yellow)
 
 
 ### Stats
 
 <a href="https://github.com/saumyagoyal95">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyagoyal95&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saumyagoyal95&show_icons=true&theme=gruvbox"/> 
 </a>
+
 <a href="https://github.com/saumyagoyal95">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saumyagoyal95&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyagoyal95&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
 </a>
 
-
-</a>    
 
 
 ### External Links to find me
