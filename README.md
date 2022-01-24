@@ -40,12 +40,12 @@
 
 ### External Links to find me
 
-📰 [medium][medium] **|** 
-👔 [linkedin][linkedin] **|**
-📷 [instagram][instagram] **|** 
-
-[medium]: https://saumyagoyal.medium.com
-[instagram]:  https://www.instagram.com/_saumya_g
-[linkedin]: https://www.linkedin.com/in/saumyaagoyal
-
+  <a href="https://saumyagoyal.medium.com" >
+         <img alt="Medium" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png"
+         width="50" height="50">
+ </a>
+ 
+  <a href="https://www.linkedin.com/in/saumyaagoyal" >
+         <img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50">
+ </a>
 
