@@ -13,18 +13,22 @@
 ![](https://img.shields.io/badge/-R-informational??style=for-the-badge&color=red)
 ![](https://img.shields.io/badge/-MySQL-informational??style=for-the-badge&color=red)
 ![](https://img.shields.io/badge/-CPP-informational??style=for-the-badge&color=red)
+![](https://img.shields.io/badge/-Git-informational??style=for-the-badge&color=red)
 
 ![](https://img.shields.io/badge/PythonLibraries-PyTorch-informational??style=for-the-badge&color=success)
 ![](https://img.shields.io/badge/-NumPy-informational??style=for-the-badge&color=success)
 ![](https://img.shields.io/badge/-Pandas-informational??style=for-the-badge&color=success)
 ![](https://img.shields.io/badge/-Matplotlib-informational??style=for-the-badge&color=success)
 ![](https://img.shields.io/badge/-SciKit-Learn-informational??style=for-the-badge&color=success)
+![](https://img.shields.io/badge/-PyTorch-informational??style=for-the-badge&color=success)
+![](https://img.shields.io/badge/-HuggingFace-informational??style=for-the-badge&color=success)
 
 ![](https://img.shields.io/badge/DevOps-Docker-informational??style=for-the-badge&color=blue)
-![](https://img.shields.io/badge/-Kubernetes-informational??style=for-the-badge&color=blue)
+![](https://img.shields.io/badge/-Jira-informational??style=for-the-badge&color=blue)
+![](https://img.shields.io/badge/-Jenkins-informational??style=for-the-badge&color=blue)
+![](https://img.shields.io/badge/-Ansible-informational??style=for-the-badge&color=blue)
 
 ![](https://img.shields.io/badge/Cloud-AWS-informational??style=for-the-badge&color=yellow)
-
 
 ### Stats
 
