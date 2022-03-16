@@ -1,6 +1,6 @@
 # Hello! I am Saumya <img src="https://github.com/saumyagoyal95/saumyagoyal95/blob/b818d448a477b2645f428ecd0a2045c2c8baec26/wave.gif" width="40px">
 
-- 🔭 I’m currently working on <b>"Creating a mini-project using Plotly and Dash"</b>
+- 🔭 I’m currently working on <b>"NLP based self mini-project to implement Plotly and Dash"</b>
 - 🌱 I’m currently learning  <b>"Plotly and Dash"</b>
 - 👯 I’m looking to collaborate on <b>" Data science and new innovations in the NLP application area"</b>
 - 🤔 I’m looking for help with <b>"More discipline in my life :P"</b>
