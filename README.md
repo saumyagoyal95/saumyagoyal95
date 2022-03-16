@@ -18,8 +18,7 @@
 ![](https://img.shields.io/badge/PythonLibraries-PyTorch-informational??style=for-the-badge&color=success)
 ![](https://img.shields.io/badge/-NumPy-informational??style=for-the-badge&color=success)
 ![](https://img.shields.io/badge/-Pandas-informational??style=for-the-badge&color=success)
-![](https://img.shields.io/badge/-SciKit-Learn-informational??style=for-the-badge&color=success)
-![](https://img.shields.io/badge/-PyTorch-informational??style=for-the-badge&color=success)
+![](https://img.shields.io/badge/-ScikitLearn-informational??style=for-the-badge&color=success)
 ![](https://img.shields.io/badge/-HuggingFace(Transformers)-informational??style=for-the-badge&color=success)
 
 ![](https://img.shields.io/badge/Visualization-Seaborn-informational??style=for-the-badge&color=success)
