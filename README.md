@@ -1,7 +1,7 @@
 # Hello! I am Saumya <img src="https://github.com/saumyagoyal95/saumyagoyal95/blob/b818d448a477b2645f428ecd0a2045c2c8baec26/wave.gif" width="40px">
 
-- 🔭 I’m currently working on <b>"Brushing up my Statistical Skills"</b>
-- 🌱 I’m currently learning  <b>"PySpark"</b>
+- 🔭 I’m currently working on <b>"Creating a mini-project using Plotly and Dash"</b>
+- 🌱 I’m currently learning  <b>"Plotly and Dash"</b>
 - 👯 I’m looking to collaborate on <b>" Data science and new innovations in the NLP application area"</b>
 - 🤔 I’m looking for help with <b>"More discipline in my life :P"</b>
 - 💬 Ask me about <b>"Data Analysis using Python/R, Training Machine Learning or Deep learning models for NLP tasks"</b> 
@@ -18,10 +18,13 @@
 ![](https://img.shields.io/badge/PythonLibraries-PyTorch-informational??style=for-the-badge&color=success)
 ![](https://img.shields.io/badge/-NumPy-informational??style=for-the-badge&color=success)
 ![](https://img.shields.io/badge/-Pandas-informational??style=for-the-badge&color=success)
-![](https://img.shields.io/badge/-Matplotlib-informational??style=for-the-badge&color=success)
 ![](https://img.shields.io/badge/-SciKit-Learn-informational??style=for-the-badge&color=success)
 ![](https://img.shields.io/badge/-PyTorch-informational??style=for-the-badge&color=success)
-![](https://img.shields.io/badge/-HuggingFace-informational??style=for-the-badge&color=success)
+![](https://img.shields.io/badge/-HuggingFace(Transformers)-informational??style=for-the-badge&color=success)
+
+![](https://img.shields.io/badge/Visualization-Seaborn-informational??style=for-the-badge&color=success)
+![](https://img.shields.io/badge/-Matplotlib-informational??style=for-the-badge&color=success)
+![](https://img.shields.io/badge/-Tensorboard-informational??style=for-the-badge&color=success)
 
 ![](https://img.shields.io/badge/DevOps-Docker-informational??style=for-the-badge&color=blue)
 ![](https://img.shields.io/badge/-Jira-informational??style=for-the-badge&color=blue)
