@@ -1,10 +1,10 @@
 # Hello! I am Saumya <img src="https://github.com/saumyagoyal95/saumyagoyal95/blob/b818d448a477b2645f428ecd0a2045c2c8baec26/wave.gif" width="40px">
 
-- 🔭 I’m currently working on <b>"NLP based customer service helper system in collaboration with IBM infrastructure"</b>
-- 🌱 I’m currently learning  <b>"NLP with hugging face libraries"</b>
-- 👯 I’m looking to collaborate on <b>" Data science and new innovations in this field"</b>
+- 🔭 I’m currently working on <b>"Brushing up my Statistical Skills"</b>
+- 🌱 I’m currently learning  <b>"PySpark"</b>
+- 👯 I’m looking to collaborate on <b>" Data science and new innovations in the NLP application area"</b>
 - 🤔 I’m looking for help with <b>"More discipline in my life :P"</b>
-- 💬 Ask me about <b>"Data Analysis using Python, Training Machine Learning or Deep learning models"</b> 
+- 💬 Ask me about <b>"Data Analysis using Python/R, Training Machine Learning or Deep learning models for NLP tasks"</b> 
 - 📫 How to reach me: <b>saumya.goyal@tum.de</b>
 - 😄 Pronouns: She 
 
