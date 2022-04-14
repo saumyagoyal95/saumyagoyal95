@@ -1,8 +1,7 @@
 # Hello! I am Saumya <img src="https://github.com/saumyagoyal95/saumyagoyal95/blob/b818d448a477b2645f428ecd0a2045c2c8baec26/wave.gif" width="40px">
 
 - 🔭 I’m currently working on <b>"My Statistics skills"</b>
-- 🌱 I’m currently learning  <b>"Plotly and Dash"</b>
-- 👯 I’m looking to collaborate on <b>" Data science and new innovations in the NLP application area"</b>
+- 🌱 I’m currently learning  <b>"Model Deployment using Flask, Docker and Kubernetes"</b>
 - 🤔 I’m looking for help with <b>"More discipline in my life :P"</b>
 - 💬 Ask me about <b>"Data Analysis using Python/R, Training Machine Learning or Deep learning models for NLP tasks"</b> 
 - 📫 How to reach me: <b>saumya.goyal@tum.de</b>
