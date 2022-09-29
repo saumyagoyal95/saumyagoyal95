@@ -26,8 +26,10 @@
 
 ![](https://img.shields.io/badge/DevOps-Docker-informational??style=for-the-badge&color=blue)
 ![](https://img.shields.io/badge/-Jira-informational??style=for-the-badge&color=blue)
-![](https://img.shields.io/badge/-Jenkins-informational??style=for-the-badge&color=blue)
 ![](https://img.shields.io/badge/-Ansible-informational??style=for-the-badge&color=blue)
+
+![](https://img.shields.io/badge/MLOps-MLflow-informational??style=for-the-badge&color=blue)
+![](https://img.shields.io/badge/-Aporia-informational??style=for-the-badge&color=blue)
 
 ![](https://img.shields.io/badge/Cloud-AWS-informational??style=for-the-badge&color=yellow)
 
