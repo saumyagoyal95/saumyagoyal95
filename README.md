@@ -30,6 +30,8 @@
 
 ![](https://img.shields.io/badge/MLOps-MLflow-informational??style=for-the-badge&color=blue)
 ![](https://img.shields.io/badge/-Aporia-informational??style=for-the-badge&color=blue)
+![](https://img.shields.io/badge/-Airflow-informational??style=for-the-badge&color=blue)
+![](https://img.shields.io/badge/-Labelbox-informational??style=for-the-badge&color=blue)
 
 ![](https://img.shields.io/badge/Cloud-AWS-informational??style=for-the-badge&color=yellow)
 
