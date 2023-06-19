@@ -1,10 +1,10 @@
 # Hello! I am Saumya <img src="https://github.com/saumyagoyal95/saumyagoyal95/blob/b818d448a477b2645f428ecd0a2045c2c8baec26/wave.gif" width="40px">
 
-- 🔭 I’m currently working on <b>"3D Multi-object detection using GNN (LIDAR)"</b>
-- 🌱 I’m currently learning  <b>"Machine Learning Operation tools like MLflow and Aporia"</b>
-- 🤔 I’m looking for help with <b>"More discipline in my life :P"</b>
-- 💬 Ask me about <b>"Data Analysis using Python, Training Machine Learning or Deep learning models"</b> 
-- 📫 How to reach me: <b>saumya.goyal@tum.de</b>
+- 🔭 I’m currently working at <b>BSH Home Appliances Group</b> as an MLOps Engineer
+- 🌱 I’m currently working on  <b>"MLOps tools like MLflow, Airflow, Aporia and Labelbox"</b>
+- 🤔 I’m looking for help with <b>"Stopping my Pizza cravings!"</b>
+- 💬 Ask me about <b>"Data Analysis using Python, MLOps open source tools and integrations"</b> 
+- 📫 How to reach me: <b>saumya.goyal@datamics.com</b>
 - 😄 Pronouns: She 
 
 ### What I know?
