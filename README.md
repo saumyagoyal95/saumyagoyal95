@@ -19,13 +19,11 @@
 ![](https://img.shields.io/badge/-Pandas-informational??style=for-the-badge&color=success)
 ![](https://img.shields.io/badge/-ScikitLearn-informational??style=for-the-badge&color=success)
 ![](https://img.shields.io/badge/-HuggingFace(Transformers)-informational??style=for-the-badge&color=success)
-![](https://img.shields.io/badge/-PyTorch-informational??style=for-the-badge&color=success)
 
 ![](https://img.shields.io/badge/Visualization-Seaborn-informational??style=for-the-badge&color=success)
 ![](https://img.shields.io/badge/-Matplotlib-informational??style=for-the-badge&color=success)
 ![](https://img.shields.io/badge/-Tensorboard-informational??style=for-the-badge&color=success)
-![](https://img.shields.io/badge/-MLFlow??style=for-the-badge&color=success)
-![](https://img.shields.io/badge/-PowerBI??style=for-the-badge&color=success)
+![](https://img.shields.io/badge/-PowerBI-informational??style=for-the-badge&color=success)
 
 
 ![](https://img.shields.io/badge/DevOps-Docker-informational??style=for-the-badge&color=blue)
