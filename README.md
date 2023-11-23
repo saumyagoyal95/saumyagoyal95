@@ -19,19 +19,23 @@
 ![](https://img.shields.io/badge/-Pandas-informational??style=for-the-badge&color=success)
 ![](https://img.shields.io/badge/-ScikitLearn-informational??style=for-the-badge&color=success)
 ![](https://img.shields.io/badge/-HuggingFace(Transformers)-informational??style=for-the-badge&color=success)
+![](https://img.shields.io/badge/-PyTorch-informational??style=for-the-badge&color=success)
 
 ![](https://img.shields.io/badge/Visualization-Seaborn-informational??style=for-the-badge&color=success)
 ![](https://img.shields.io/badge/-Matplotlib-informational??style=for-the-badge&color=success)
 ![](https://img.shields.io/badge/-Tensorboard-informational??style=for-the-badge&color=success)
+![](https://img.shields.io/badge/-MLFlow??style=for-the-badge&color=success)
+![](https://img.shields.io/badge/-PowerBI??style=for-the-badge&color=success)
+
 
 ![](https://img.shields.io/badge/DevOps-Docker-informational??style=for-the-badge&color=blue)
-![](https://img.shields.io/badge/-Jira-informational??style=for-the-badge&color=blue)
 ![](https://img.shields.io/badge/-Ansible-informational??style=for-the-badge&color=blue)
 
 ![](https://img.shields.io/badge/MLOps-MLflow-informational??style=for-the-badge&color=blue)
 ![](https://img.shields.io/badge/-Aporia-informational??style=for-the-badge&color=blue)
 ![](https://img.shields.io/badge/-Airflow-informational??style=for-the-badge&color=blue)
 ![](https://img.shields.io/badge/-Labelbox-informational??style=for-the-badge&color=blue)
+![](https://img.shields.io/badge/-Labelstudio-informational??style=for-the-badge&color=blue)
 
 ![](https://img.shields.io/badge/Cloud-AWS-informational??style=for-the-badge&color=yellow)
 
