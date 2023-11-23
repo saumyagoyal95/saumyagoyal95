@@ -1,13 +1,13 @@
 # Hello! I am Saumya <img src="https://github.com/saumyagoyal95/saumyagoyal95/blob/b818d448a477b2645f428ecd0a2045c2c8baec26/wave.gif" width="40px">
 
 - 🔭 I’m currently working at <b>BSH Home Appliances Group</b> as an MLOps Engineer
-- 🌱 I’m currently working on  <b>"MLOps tools like MLflow, Airflow, Aporia and Labelbox"</b>
+- 🌱 I’m currently working on  <b>"Integrating MLOps tools in the existing ML pipeline"</b>
 - 🤔 I’m looking for help with <b>"Stopping my Pizza cravings!"</b>
-- 💬 Ask me about <b>"Data Analysis using Python, MLOps open source tools and integrations"</b> 
+- 💬 Ask me about <b>"Data Analysis using Python, MLOps open source tools (MLFlow, Apache Airflow, Labelstudio) and their integrations"</b> 
 - 📫 How to reach me: <b>saumya.goyal@datamics.com</b>
 - 😄 Pronouns: She 
 
-### What I know?
+### What do I know?
 ![](https://img.shields.io/badge/Language-Python-informational??style=for-the-badge&color=red)
 ![](https://img.shields.io/badge/-R-informational??style=for-the-badge&color=red)
 ![](https://img.shields.io/badge/-MySQL-informational??style=for-the-badge&color=red)
